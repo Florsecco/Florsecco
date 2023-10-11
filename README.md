@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on the final proyect of a course
-- 🌱 I’m currently learning Full stack development
-<!--
+- 🌱 I’m currently learning Web full stack development <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
